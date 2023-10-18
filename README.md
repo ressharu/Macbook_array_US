@@ -1,10 +1,10 @@
 # Macbook_array_US
 このjsonのコードを用いれば、JIS配列のキーボードがまるでUS配列(多少改変あり)になったかのように感じながら扱うことができます。
 
-**変更後のキー配列**
+***変更後のキー配列***
 ![変更後の配列](material/from_JIS_to_US.jpg "From-JIS-to-US")
 
-**セット方法**
+***セット方法***
 1. 以下のリンクからKarabiner-Elementsをダウンロードを行ってください。
    また、指示に従ってセットアップを完了させてください。
    https://karabiner-elements.pqrs.org/
