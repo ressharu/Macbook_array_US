@@ -17,8 +17,8 @@
 3. Karabiner-Elementsを開き、Complex Modificationsを選択してください。
    選択するとAdd ruleというボタンがあるのでクリックしてください。
 
-   ![変更後の配列](material/Complex_Modifications.jpg "From-JIS-to-US")
+   ![Complex-Modifications画面](material/Complex_Modifications.jpg "From-JIS-to-US")
 
 4. Array_USという選択肢を見つけられるはずです。横の+Enableを押せば完了です！
 
-   ![変更後の配列](material/Array_US.jpg "From-JIS-to-US")
+   ![Array_US](material/Array_US.jpg "From-JIS-to-US")
