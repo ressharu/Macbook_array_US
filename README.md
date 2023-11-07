@@ -5,7 +5,7 @@
 ![変更後の配列](material/from_JIS_to_US.png "From-JIS-to-US")
 
 **セット方法**
-1. 以下のリンクからKarabiner-Elementsをダウンロードを行ってください。
+1. 以下のリンクからKarabiner-Elementsのダウンロードを行ってください。
    また、指示に従ってセットアップを完了させてください。
    https://karabiner-elements.pqrs.org/
 
